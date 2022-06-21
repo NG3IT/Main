@@ -1,11 +1,13 @@
-# Welcome in my Github repo. Here, you can find some things as i have met through my infosec travel.
+# ng3it@ng3it/github.oi/Main:~$ Welcome in my Github repo. Enjoy.
 
-# Enjoy.
+<br>
 
 ---
 
 <br>
 
-- [Security](https://github.com/NG3IT/Sec)
-- [CTF-Writeups](https://github.com/NG3IT/CTF-Writeups)
-- [CTF-Challenge-Writeups](https://github.com/NG3IT/Challenge-Writeups)
+-- [Security](https://github.com/NG3IT/Sec)
+
+-- [CTF-Writeups](https://github.com/NG3IT/CTF-Writeups)
+
+-- [CTF-Challenge-Writeups](https://github.com/NG3IT/Challenge-Writeups)
